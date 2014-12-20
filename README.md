@@ -19,7 +19,7 @@ The game itself is pretty standard, but the Game Classes inside the com.game fol
 In theory you could totally reformat the Main.as, Spawner.as, UI.as, and the scripts in com.game.ents to make your own version of this game.
 
 But this isn't really meant to be a template, 
-and the above .as files noted above are heavily tied to the current state of com.game.ents.
+and the .as files noted above are heavily tied to the current state of com.game.ents.
 
 
 

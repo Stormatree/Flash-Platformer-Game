@@ -5,7 +5,7 @@ Spawner	- Handles physboxes, projectiles, actors, and player
 
 Game Classes:
 
-			Base --------.
+			Base ------------.
 		         |            \
 		      Hitbox -----.   Parallax
 		      /    \       \

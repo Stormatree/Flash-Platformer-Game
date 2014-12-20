@@ -1,15 +1,15 @@
-Play
-====
+Flash-Platformer-Game
+=====================
 
-A compiled version of this game can be found here : 
+<img src="http://i.imgur.com/dmPviTZ.gif">
+
+A playable version of this game can be found here : 
 
 http://elliottslingsby.co.uk/cmyk/
 
-2 x bigger than the SWF, with control layout instructions.
 
 
-
-Flash-Platformer-Game
+Description
 =====================
 
 A simple MegaMan 2 style endurance platformer, written in AS3 with Adobe Flash.

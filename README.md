@@ -26,6 +26,6 @@ and the above .as files noted above are heavily tied to the current state of com
 Requirements
 ============
 
-Due to the .fla library being a prominent feature of the game's design, a version of Adobe Flash will be needed to compile the game in it's current state.
+Due to the .fla library being a prominent feature of the game's design, a version of Adobe Flash will be needed to compile the game in its current state.
 
-Keep in mind the .fla doesn't contain any actionscript, but the movieclips in the library contain animations and movieclips that some entities get tied to.
+Keep in mind the .fla doesn't contain any actionscript, but the contents of the library contain animations and movieclips that some entities get tied to on compile.

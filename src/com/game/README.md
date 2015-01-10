@@ -1,6 +1,9 @@
 Controller Classes:
+
 Map	- Handles brushes, and parralax scrolling
+
 Input	- Handles keyboard input
+
 Spawner	- Handles physboxes, projectiles, actors, and player
 
 Game Classes:

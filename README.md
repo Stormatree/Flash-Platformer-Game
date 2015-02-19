@@ -14,12 +14,7 @@ Description
 
 A simple MegaMan 2 style endurance platformer, written in AS3 with Adobe Flash.
 
-The game itself is pretty standard, but the Game Classes inside the com.game folder are quite solid, and most of the game is made from entities in the com.game.ents folder, which are all sub-classes of the game classes.
-
-In theory you could totally reformat the Main.as, Spawner.as, UI.as, and the scripts in com.game.ents to make your own version of this game.
-
-But this isn't really meant to be a template, 
-and the .as files noted above are heavily tied to the current state of com.game.ents.
+The game itself is a standard inheritance based game, made in the span of about 3 weeks. Don't expect anything too special archeticture-wise.
 
 
 

@@ -14,13 +14,11 @@ Description
 
 A simple MegaMan 2 style endurance platformer, written in AS3 with Adobe Flash.
 
-The game itself is a standard inheritance based game, made in the span of about 3 weeks. Don't expect anything too special archeticture-wise.
+The code is mainly inheritance based, made in a short span of time.
 
 
 
 Requirements
 ============
 
-Due to the .fla library being a prominent feature of the game's design, a version of Adobe Flash will be needed to compile the game in its current state.
-
-Keep in mind the .fla doesn't contain any actionscript, but the contents of the library contain animations and movieclips that some entities get tied to on compile.
+The .fla is only for the MovieClip animations in library, other than that it's all ActionScript.

@@ -21,4 +21,4 @@ The code is mainly inheritance based, made in a short span of time.
 Requirements
 ============
 
-The .fla is only for the MovieClip animations in library, other than that it's all ActionScript.
+The .fla is only for the MovieClip animations in the library, other than that it's all ActionScript.

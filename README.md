@@ -3,10 +3,6 @@ Flash-Platformer-Game
 
 <img src="http://i.imgur.com/dmPviTZ.gif">
 
-A playable version of this game can be found here : 
-
-http://elliottslingsby.co.uk/cmyk/
-
 
 
 Description
